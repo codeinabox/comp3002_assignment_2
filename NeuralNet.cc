@@ -1,5 +1,7 @@
 #include "NeuralNet.h"
 
+using namespace std;
+
 /*
 Neural Network Layer class
 */

@@ -1,0 +1,4 @@
+COMP3002 Artificial Intelligence - Assignment 2
+-----------------------------------------------
+
+Example usage: ./ass2 datafile hidden-units learning-rate

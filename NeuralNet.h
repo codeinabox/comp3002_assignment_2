@@ -10,6 +10,8 @@ Basic Neural Network library
 #include <math.h>
 #include <time.h>
 
+using namespace std;
+
 typedef struct {
   float * attributes;
   float target;
